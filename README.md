@@ -1,6 +1,8 @@
 # EsigningLoan
 
-Ready made project, source: Kaggle
+Project using ANN
+
+dataset source: Kaggle
 
 ESignature:
 
