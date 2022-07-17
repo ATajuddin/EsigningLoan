@@ -25,10 +25,10 @@ Data Transformation and Model Building
 ------------------------------------
 
 Models implemented:
-Artificial Neural Network
-Random Forest Classifier
-Gradient Boosting
-Support Vector Machine
-Xg Boost
+1) Artificial Neural Network
+2) Random Forest Classifier
+3) Gradient Boosting
+4) Support Vector Machine
+5) XG Boost
 
 ---------------------------------------
